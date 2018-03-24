@@ -1,10 +1,11 @@
-title: Streamdata Gallery Genome
-url: genome.streamdata.gallery
-tag: Genome
+title: Streamdata API Gallery - Genomes
+description: A gallery of APIs to demonstrate what is possible when it comes to making data, content, and algorithms more real time, and event-driven as part of the API economy.
+url: genomes.streamdata.gallery
+tag: Genomes
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: genome
+github_repo: genomes
 github_branch: master
 collections:
   listings:
